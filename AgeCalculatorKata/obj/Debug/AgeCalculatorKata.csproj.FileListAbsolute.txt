@@ -1,0 +1,6 @@
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.dll
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.pdb
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.csprojResolveAssemblyReference.cache
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.dll
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.pdb

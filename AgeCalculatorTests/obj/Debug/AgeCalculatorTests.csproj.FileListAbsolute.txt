@@ -1,0 +1,12 @@
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\AgeCalculatorTests.dll
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\AgeCalculatorTests.pdb
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\nunit.framework.dll
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\nunit.framework.pdb
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\nunit.framework.xml
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\obj\Debug\AgeCalculatorTests.csprojResolveAssemblyReference.cache
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\obj\Debug\AgeCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\obj\Debug\AgeCalculatorTests.csproj.CopyComplete
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\obj\Debug\AgeCalculatorTests.dll
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\obj\Debug\AgeCalculatorTests.pdb
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\AgeCalculatorKata.dll
+C:\Systems\Katas\C#\AgeCalculator\AgeCalculatorKata\AgeCalculatorTests\bin\Debug\AgeCalculatorKata.pdb
